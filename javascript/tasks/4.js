@@ -98,3 +98,4 @@ let arr10 = [1, 2, 3, 4, 5];
 let lastElement = arr10.pop();
 arr10.unshift(lastElement);
 console.log(arr10);
+
