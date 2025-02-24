@@ -1,0 +1,18 @@
+{
+  "name": "my-first-npm-package-with-math-operations",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "keywords": ["math", "fibonacci", "prime"],
+  "author": "",
+  "license": "ISC",
+  "description": "Fibonacci and Prime Number Generator",
+  "devDependencies": {
+    "jshint": "^2.13.6"
+  },
+  "dependencies": {
+    "underscore": "^1.13.7"
+  }
+}

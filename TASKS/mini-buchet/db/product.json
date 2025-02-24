@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "name": "Rose",
+    "cost": 200,
+    "quantity": 4,
+    "description": "Red Flower",
+    "categoryId": 3
+  },
+  {
+    "id": 3,
+    "name": "atirgul",
+    "cost": 200,
+    "quantity": 3,
+    "description": "White Flower",
+    "categoryId": 2
+  }
+]

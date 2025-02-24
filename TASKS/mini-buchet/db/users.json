@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "fullName": "Fazliddin Nabijonov New",
+    "phone": "+998901234567",
+    "email": "fazliddin1@gmail.com",
+    "password": "$2b$10$UK5QYJ8oy6JMJOmYD3mZoeNVgFAEgjLrArOkxkqA12BFy6PCrvUTm"
+  },
+  {
+    "id": 97902,
+    "fullName": "Isroiljon Flutter",
+    "phone": "+99890901234567",
+    "email": "isroiljon@gmail.com",
+    "password": "$2b$10$fAUA/JEfAGLrmHpyNM06gub8DKMTulg0zpsjCCpAzSZxKbQ1sxJVa"
+  },
+  {
+    "id": 41925,
+    "fullName": "Olloyor M",
+    "phone": "+998917359223",
+    "email": "olloyor@gmail.com",
+    "password": "$2b$10$sFbyHUdkWnJCbZH2EF0bV.9yXIs62TKTQ7FbV80Rpr1VQyAEk6sSS"
+  }
+]
